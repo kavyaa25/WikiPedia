@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/Wikipedia.html"
+status = 200
